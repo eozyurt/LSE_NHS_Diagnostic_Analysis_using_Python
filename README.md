@@ -16,3 +16,5 @@ The next steps (Parts 2 and 3) involved establishing time frames for all three D
 In Part 4 I identified seasonal trends. I used the nc DataFrame to explore daily trends, and the ar DataFrame to explore monthly trends. I also looked at regional differences and most of my analyses involved grouping data by one or more variables to count the total number of appointments under different scenarios. Finally I looked at resource utilisation using the 1.2 million appointments a day figure given in the Week 6 assignment.
 
 I also carried out the Twitter analysis using the data provided, but decided against exploring this further as it was not directly relevant to my area of focus.
+
+Please find the 'erdi_ozyurt (AutoRecovered).pdf' for more information.
